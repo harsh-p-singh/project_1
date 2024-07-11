@@ -1,0 +1,62 @@
+[
+    {
+      "name": "Mirzapur",
+      "id": "Mirzapur",
+      "img_url": "http://localhost:5173/images/mirzapur.jpg",
+      "IMDb": "8.8",
+      "description": "In Mirzapur, revenge runs darker than blood. There is one title, the King of Mirzapur, but many takers. Munna feels invincible after escaping from the wedding massacre. Guddu and Golu are nowhere to be found. Akhandanand's ambitions soar as he eyes political power. Going beyond Purvanchal to the power corridors of Lucknow and the streets of Bihar, there's one question who will rule Mirzapur?",
+      "starring": ["Ali Fazal, Shweta Tripathi Sharma, Pankaj Tripathi, Divyenndu, Rasika Dugal"],
+      "genre": ["Action , Drama, Suspense"],
+      "watch_url": "https://www.primevideo.com/detail/0FBF7DWFYG99Y3TSNVJ4ELOLBO/ref=atv_dp_share_cu_r"
+    },
+    {
+      "name": "Panchayat",
+      "id": "Panchayat",
+      "img_url": "http://localhost:5173/images/panchayat.jpg",
+      "IMDb": "9.0",
+      "description": "Panchayat is a comedy-drama, which captures the journey of an engineering graduate Abhishek, who for lack of a better job option joins as secretary of a panchayat office in a remote village of Uttar Pradesh.",
+      "starring": ["Jitendra Kumar, Raghuvir Yadav, Chandan Roy"],
+      "genre": ["Drama, Comedy, international"],
+      "watch_url": "https://www.primevideo.com/detail/0KEP4A6DWRKFYQFTSU5RXHEAN2/ref=atv_dp_share_cu_r"
+    },
+    {
+      "name": "The Family Man",
+      "id": "The-Family-Man",
+      "img_url": "http://localhost:5173/images/familyMan.jpg",
+      "IMDb": "8.7",
+      "description": "Srikant Tiwari has quit TASC and works in the private sector to spend more time with the family. A powerful new enemy forces him to return. Srikant has to now uncover and thwart a dangerous coalition between an old foe and a dormant group of foreign insurgents. But the danger is much closer to home. This time around, nobody is safe!",
+      "starring": ["Manoj Bajpayee, Samantha Akkineni, Priya Mani"],
+      "genre": ["Action, Comedy, Drama"],
+      "watch_url": "https://www.primevideo.com/detail/0H3DDB4KBJFNDCKKLHNRLRLVKQ/ref=atv_dp_share_cu_r"
+    },
+    {
+      "name": "Paatal Lok",
+      "id": "Paatal-Lok",
+      "img_url": "http://localhost:5173/images/patallok.jpg",
+      "IMDb": "8.1",
+      "description": "A down and out cop lands the case of a lifetime when four suspects are nabbed in the assassination attempt of a prime time journalist. The case turns out to be a devious maze where nothing is what it looks like. The pursuit of it leads him to the dark netherworld - the 'Paatal Lok', and to shocking discoveries in the past of the four suspects.",
+      "starring": ["Jaideep Ahlawat, Neeraj Kabi, Gul Panag"],
+      "genre": ["Action, Suspense, Drama"],
+      "watch_url": "https://www.primevideo.com/detail/0G9IEOHCN8KMY6COD9ILGH7IY5/ref=atv_dp_share_cu_r"
+    },
+    {
+      "name": "The Forgotten Army - Azaadi Ke Liye",
+      "id": "the-Army",
+      "img_url": "http://localhost:5173/images/army.jpg",
+      "IMDb": "7.9",
+      "description": "The Forgotten Army is a true epic war series about the Indian soldiers from the Azad Hind Fauj who marched 3,884 kms from Singapore to Delhi to free their country from the British. Led by Netaji Subhash Chandra Bose, they fought against their size and scale but were labelled by the then ruling establishment as traitors. Experience an action packed series recreate this momentous juncture in history",
+      "starring": ["Sunny Kaushal, Sharvari, Rohit Choudhary"],
+      "genre": ["Action, Drama, Historical, Military and War"],
+      "watch_url": "https://www.primevideo.com/detail/0NLS2PB87FWDT7STVNQKBEPTHD/ref=atv_dp_share_cu_r"
+    },
+    {
+      "name": "Breathe: Into The Shadows",
+      "id": "Breathe: Into-The-Shadows",
+      "img_url": "http://localhost:5173/images/shadow.jpg",
+      "IMDb": "TBD",
+      "description": "A 6-year old girl is kidnapped by a mysterious masked man, who demands an unusual ransom. To save his daughter, Dr. Avinash Sabharwal must kill someone! Meanwhile, Kabir Sawant's journey continues in the hostile environment of the Delhi Crime branch. Lies, deceit and mind games begin when Kabir is given charge of the investigation, and meets Avinash. How far will Avinash go to save his daughter?",
+      "starring": ["Abhishek A. Bachchan, Amit Sadh, Nithya Menen"],
+      "genre": ["Drama, Suspense"],
+      "watch_url": "https://www.primevideo.com/detail/0TRG6QSFTYWRDB885FMYJOJO9X/ref=atv_dp_share_cu_r"
+    }
+  ]
